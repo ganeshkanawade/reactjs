@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-		Welcome to Nell Infotech. This is Circleci Demo for CICD develop by Ganesh.
+		Welcome to Nell Infotech. This is Circleci Demo for CICD develop by Paresh.
         </p>
       </header>
     </div>
